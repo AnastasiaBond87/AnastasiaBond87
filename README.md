@@ -12,16 +12,26 @@
 <img src="https://user-images.githubusercontent.com/77237102/224540339-eab6bf1c-ebb0-4302-b56b-971f59e57a74.svg" alt="Git" title="Git" width="30px"/>
 <img src="https://user-images.githubusercontent.com/77237102/224540389-1d37e2f4-e7c0-4eae-b30e-4b2f6340fb6c.svg" alt="Webpack" title="Webpack" width="30px"/>
 </div>
-<h4>Last projects:</h4>
+<h4>Recent projects:</h4>
 <ul>
 <li>
-<a href="https://anastasia-bondarenko-online-store.netlify.app/">Online-store</a>
-<span>(HTML, SCSS, React, React Router, SPA, Teamwork)</span>
+<a href="https://rolling-scopes-school.github.io/krevetka87-JSFE2022Q3/songbird/dist/">Songbird</a>
+<span>(HTML, SCSS, SPA)</span>
 </li>
 <li>
 <a href="https://anastasia-bondarenko-online-store.netlify.app/">Online-store</a>
-<span>(HTML, SCSS, React, React Router, SPA, Teamwork)</span>
+<span>(HTML, SCSS, React, React Router, TypeScript, SPA, Teamwork)</span>
 </li>
+<li>
+<a href="https://rsspace.onrender.com/">RS Clone</a>
+<span>(React, React Router, Material UI, React Hook Form + YUP, Redux Toolkit, TypeScript, i18next, RESTful API, SPA, Teamwork)</span>
+</li>
+</ul>
+<h4>Сourses:</h4>
+<ul>
+  <li>The Rolling Scopes School - Pre-School (JavaScript)</li>
+  <li>The Rolling Scopes School - JavaScript/Front-end</li>
+  <li>The Rolling Scopes School - React</li>
 </ul>
 
 <!--
