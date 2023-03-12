@@ -12,6 +12,9 @@
 <img src="https://user-images.githubusercontent.com/77237102/224540339-eab6bf1c-ebb0-4302-b56b-971f59e57a74.svg" alt="Git" title="Git" width="30px"/>
 <img src="https://user-images.githubusercontent.com/77237102/224540389-1d37e2f4-e7c0-4eae-b30e-4b2f6340fb6c.svg" alt="Webpack" title="Webpack" width="30px"/>
 </div>
+
+🌱 I’m currently learning Node.js
+
 <h4>Recent projects:</h4>
 <ul>
 <li>
@@ -33,6 +36,7 @@
   <li>The Rolling Scopes School - JavaScript/Front-end</li>
   <li>The Rolling Scopes School - React</li>
 </ul>
+
 
 <!--
 **krevetka87/krevetka87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
