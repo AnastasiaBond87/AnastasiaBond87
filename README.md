@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/77237102/224540389-1d37e2f4-e7c0-4eae-b30e-4b2f6340fb6c.svg" alt="Webpack" title="Webpack" width="30px"/>
 </div>
 
-🌱 I’m currently learning Node.js
+🌱 I’m currently learning Node.js, Next.js, GraphQL
 
 <h4>Recent projects:</h4>
 <ul>
