@@ -15,21 +15,6 @@
 
 🌱 I’m currently learning Node.js, Next.js, GraphQL
 
-<h4>Recent projects:</h4>
-<ul>
-<li>
-<a href="https://rolling-scopes-school.github.io/krevetka87-JSFE2022Q3/songbird/dist/">Songbird</a>
-<span>(HTML, SCSS, SPA)</span>
-</li>
-<li>
-<a href="https://anastasia-bondarenko-online-store.netlify.app/">Online-store</a>
-<span>(HTML, SCSS, React, React Router, TypeScript, SPA, Teamwork)</span>
-</li>
-<li>
-<a href="https://rsspace.onrender.com/">RS Clone</a>
-<span>(React, React Router, Material UI, React Hook Form + YUP, Redux Toolkit, TypeScript, i18next, RESTful API, SPA, Teamwork)</span>
-</li>
-</ul>
 <h4>Сourses:</h4>
 <ul>
   <li>The Rolling Scopes School - Pre-School (JavaScript)</li>
