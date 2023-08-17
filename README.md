@@ -11,17 +11,12 @@
 <img src="https://user-images.githubusercontent.com/77237102/224541194-7f2103a7-0c5f-441c-9690-989a436a15ad.svg" alt="Material UI" title="Material UI" width="30px"/>
 <img src="https://user-images.githubusercontent.com/77237102/224540339-eab6bf1c-ebb0-4302-b56b-971f59e57a74.svg" alt="Git" title="Git" width="30px"/>
 <img src="https://user-images.githubusercontent.com/77237102/224540389-1d37e2f4-e7c0-4eae-b30e-4b2f6340fb6c.svg" alt="Webpack" title="Webpack" width="30px"/>
+<img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/64c32b21-1290-45c7-b463-88c235cd00d1.svg" alt="Vite" title="Vite" width="30px" />
+<img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/3244b56b-0ac1-405e-898e-a8b6e188dcfb.svg" alt="Vue" title="Vue" width="30px" />
+<img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/2e7676f5-19ef-4c0e-877c-6e0db2fbe301.svg" alt="TailwindCSS" title="TailwindCSS" width="30px" />
 </div>
 
-🌱 I’m currently learning Node.js, Next.js, GraphQL
-
-<h4>Сourses:</h4>
-<ul>
-  <li>The Rolling Scopes School - Pre-School (JavaScript)</li>
-  <li>The Rolling Scopes School - JavaScript/Front-end</li>
-  <li>The Rolling Scopes School - React</li>
-</ul>
-
+<p>🌱 I’m currently learning Node.js, Next.js, GraphQL</p>
 
 <!--
 **krevetka87/krevetka87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
