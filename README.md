@@ -14,9 +14,12 @@
 <img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/64c32b21-1290-45c7-b463-88c235cd00d1.svg" alt="Vite" title="Vite" width="30px" />
 <img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/3244b56b-0ac1-405e-898e-a8b6e188dcfb.svg" alt="Vue" title="Vue" width="30px" />
 <img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/2e7676f5-19ef-4c0e-877c-6e0db2fbe301.svg" alt="TailwindCSS" title="TailwindCSS" width="30px" />
+<img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/026eeee9-5b75-4cf7-9c07-d32682d633cb.svg" alt="Next.js" title="Next.js" width="30px" />
+<img src="https://github.com/AnastasiaBond87/AnastasiaBond87/assets/77237102/1aa32160-bef9-4e6e-a904-54abbe22a488.svg" alt="GraphQL" title="GraphQL" width="30px" />
 </div>
 
-<p>🌱 I’m currently learning Node.js, Next.js, GraphQL</p>
+
+<p>🌱 I’m currently learning Node.js</p>
 
 <!--
 **krevetka87/krevetka87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
